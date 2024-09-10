@@ -1,11 +1,11 @@
 # Estudo de Análise de Arquitetura
 
 ## Arquitetura de Solução
-- processo de definição da estrutura, componentes, módulos interfaces de softwares para satisfazer requisitos funcionais e não funcionais.
+- Processo de definição da estrutura, componentes, módulos interfaces de softwares para satisfazer requisitos funcionais e não funcionais.
 
-- define / sugere a stack de tecnologia, plataformas, ferramentas, infraestrutura que serão utilizadas para implementar tal solução.
+- Define / sugere a stack de tecnologia, plataformas, ferramentas, infraestrutura que serão utilizadas para implementar tal solução.
 
-- provê um blueprint do desenho e caminhos do desenvolvimento, integração de uma solução para sua melhor eficiência.
+- Provê um blueprint do desenho e caminhos do desenvolvimento, integração de uma solução para sua melhor eficiência.
 
 ## Qualquer desenvolvedor pode ser um arquiteto ?
 - Experiência nesse caso conta bastante, pelo fato do conhecimento de diversos domínios, projetos passados.
@@ -22,6 +22,18 @@
 - Indiretamente arquitetura de soluções estão sendo criadas diariamente por desenvolvedores. Qual é o problema ?
 
 - Intecionalidade
+
+## Quais princípios que um arquiteto de solução leva em consideração ?
+- Alinhamento com objetivo de negócios.
+- Flexibilidade "coisas erradas acontecem"
+- Reusabilidade "usar em varios lugares os microservices"
+- Interoperabilidade "como ele se comunica"
+- Mantenabilidade "como eu vou manter esses microservices"
+- Complice com normas regulatórias. "quais dados vou salvar e como salvar"
+- Portabilidade "como eu guardo essas informações"
+
+## Arquitetura de solução especializada
+- Grandes empresas
 
 
 
