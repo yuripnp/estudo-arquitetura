@@ -33,7 +33,15 @@
 - Portabilidade "como eu guardo essas informações"
 
 ## Arquitetura de solução especializada
-- Grandes empresas
+- Grandes empresas, principalmente cloud providers possuem cargos especificos de arquitetura de soluções baseado na gama de recursos que podem ter fit com necessidades de diversos tipos de nichos do mercado.
+
+- EX: Google Cloud, Azure AWS: Possuem profissionais especializados para montar as peças de seus serviços de forma a serem integradas para resolverem dores do cliente.
+
+- Eles entendem a dor do cliente, desenvolvem um prototipo de uma solução, trabalham em conjunto, entendem as restrições de negócios e financeiras.
+
+- Com uma solução definida, possuem programas de parceiros para auxiliar na implementação da solução proposta.
+
+*Isso não se limita a Cloud Providers. Há empresas que possuem soluções para diversos nichos, como banco de dados, salesforce etc..*
 
 
 
