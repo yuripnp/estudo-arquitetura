@@ -41,7 +41,9 @@
 
 - Com uma solução definida, possuem programas de parceiros para auxiliar na implementação da solução proposta.
 
-_`Isso não se limita a Cloud Providers. Há empresas que possuem soluções para diversos nichos, como banco de dados, salesforce etc..`_
+__`Isso não se limita a Cloud Providers. Há empresas que possuem soluções para diversos nichos, como banco de dados, salesforce etc..`__
+
+__teste__
 
 
 
